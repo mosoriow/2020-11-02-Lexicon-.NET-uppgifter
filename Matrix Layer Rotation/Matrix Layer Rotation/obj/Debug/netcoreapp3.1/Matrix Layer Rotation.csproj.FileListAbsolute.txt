@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation\Matrix Layer Rotation\bin\Debug\netcoreapp3.1\Matrix Layer Rotation.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation\Matrix Layer Rotation\bin\Debug\netcoreapp3.1\Matrix Layer Rotation.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation\Matrix Layer Rotation\bin\Debug\netcoreapp3.1\Matrix Layer Rotation.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation\Matrix Layer Rotation\bin\Debug\netcoreapp3.1\Matrix Layer Rotation.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation\Matrix Layer Rotation\bin\Debug\netcoreapp3.1\Matrix Layer Rotation.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation\Matrix Layer Rotation\bin\Debug\netcoreapp3.1\Matrix Layer Rotation.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation\Matrix Layer Rotation\obj\Debug\netcoreapp3.1\Matrix Layer Rotation.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation\Matrix Layer Rotation\obj\Debug\netcoreapp3.1\Matrix Layer Rotation.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation\Matrix Layer Rotation\obj\Debug\netcoreapp3.1\Matrix Layer Rotation.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation\Matrix Layer Rotation\obj\Debug\netcoreapp3.1\Matrix Layer Rotation.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation\Matrix Layer Rotation\obj\Debug\netcoreapp3.1\Matrix Layer Rotation.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation\Matrix Layer Rotation\obj\Debug\netcoreapp3.1\Matrix Layer Rotation.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation\Matrix Layer Rotation\obj\Debug\netcoreapp3.1\Matrix Layer Rotation.genruntimeconfig.cache

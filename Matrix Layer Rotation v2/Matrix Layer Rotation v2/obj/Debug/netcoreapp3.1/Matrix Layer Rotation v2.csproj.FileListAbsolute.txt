@@ -1,0 +1,13 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation v2\Matrix Layer Rotation v2\obj\Debug\netcoreapp3.1\Matrix Layer Rotation v2.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation v2\Matrix Layer Rotation v2\obj\Debug\netcoreapp3.1\Matrix Layer Rotation v2.AssemblyInfoInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation v2\Matrix Layer Rotation v2\obj\Debug\netcoreapp3.1\Matrix Layer Rotation v2.AssemblyInfo.cs
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation v2\Matrix Layer Rotation v2\obj\Debug\netcoreapp3.1\Matrix Layer Rotation v2.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation v2\Matrix Layer Rotation v2\bin\Debug\netcoreapp3.1\Matrix Layer Rotation v2.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation v2\Matrix Layer Rotation v2\bin\Debug\netcoreapp3.1\Matrix Layer Rotation v2.deps.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation v2\Matrix Layer Rotation v2\bin\Debug\netcoreapp3.1\Matrix Layer Rotation v2.runtimeconfig.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation v2\Matrix Layer Rotation v2\bin\Debug\netcoreapp3.1\Matrix Layer Rotation v2.runtimeconfig.dev.json
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation v2\Matrix Layer Rotation v2\bin\Debug\netcoreapp3.1\Matrix Layer Rotation v2.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation v2\Matrix Layer Rotation v2\bin\Debug\netcoreapp3.1\Matrix Layer Rotation v2.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation v2\Matrix Layer Rotation v2\obj\Debug\netcoreapp3.1\Matrix Layer Rotation v2.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation v2\Matrix Layer Rotation v2\obj\Debug\netcoreapp3.1\Matrix Layer Rotation v2.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\Matrix Layer Rotation v2\Matrix Layer Rotation v2\obj\Debug\netcoreapp3.1\Matrix Layer Rotation v2.genruntimeconfig.cache
